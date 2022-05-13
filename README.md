@@ -1,4 +1,4 @@
-# Project-Compro-Snake
+# Project-Compro-The Snake
 ![image](https://user-images.githubusercontent.com/88426245/168302116-494ff788-9c14-43f2-8901-3daae4516c81.png)
 ![](header.png)
 # Description
@@ -13,11 +13,8 @@ https://github.com/ThanakornPhaophanat/Project-Compro-Snake/blob/main/Snake%20ga
 ## Dependencies
 * ระบบปฎิบัติการที่สามารถรันภาษา C ได้
 * ยกตัวอย่างเช่น Window 10, 8, 7
-## Installing
-* ดาวน์โหลดไฟล์ zip จาก github
-* เเตกไฟล์ลงบนโฟลเดอร์ที่ต้องการ
-## Executing 
-* 
+## How to plat
+* รันในตัวรัน C เช่น visual studio , Code Block
 ## Author
   Thanakorn Phaophanat-64070039
 ## Project Members
