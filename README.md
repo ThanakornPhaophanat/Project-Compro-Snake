@@ -9,7 +9,7 @@ https://github.com/ThanakornPhaophanat/Project-Compro-Snake/blob/main/Snake%20ga
 ------------------------------------------------------------------------------------
 ## Presentation Video
 
-## Getting Started
+### Getting Started ###
 ## Dependencies
 * ระบบปฎิบัติการที่สามารถรันภาษา C ได้
 * ยกตัวอย่างเช่น Window 10, 8, 7
